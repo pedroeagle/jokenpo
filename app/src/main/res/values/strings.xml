@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Jokenpo</string>
+    <string name="escolha_do_app">Escolha do App:</string>
+    <string name="todo">TODO</string>
+    <string name="escolha_uma_op_o">Escolha uma opção:</string>
+    <string name="_0">0</string>
+    <string name="derrotas">DERROTAS:</string>
+    <string name="vit_rias">VITÓRIAS:</string>
+    <string name="placar">PLACAR:</string>
+    <string name="empates">EMPATES:</string>
+    <string name="partidas">PARTIDAS:</string>
+    <string name="zerar">zerar</string>
+</resources>
